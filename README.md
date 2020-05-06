@@ -1,8 +1,4 @@
 # Diaspora
-A WordPress theme
-
-[Preview Diaspora →](http://isujin.com)
-
 现在有移植版本
 
 - Ghost：https://github.com/PeterCxy/ghost-diaspora
